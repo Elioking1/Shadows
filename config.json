@@ -1,0 +1,55 @@
+{
+    "default_prefix": "=",
+    "token": "TOKEN",
+    "youtubeapi": "YOUTUBEAPI",
+    "fortnitetoken": "FORTNITETOKEN",
+    "blaguexyztoken": "BLAGUEXYZTOKEN",
+    "ownerID": "your ID",
+    "premium": [
+        "your ID"
+    ],
+    "creatorcodelist": [
+            {
+                "name": "Owner Name",
+                "ownerID": "your ID"
+            },
+            {
+                "name": "shadows",
+                "ownerID": "Another ID"
+            }
+        ],
+    "channels": {
+        "statut": "channel ID",
+        "servers": "channel ID",
+        "bugs": "channel ID",
+        "adventurelogs": "channel ID",
+        "devLogs": "channel ID"
+    },
+    "votes": [
+        {
+            "name": "Discord Labs",
+            "emoji": "EMOJI",
+            "link": "LINK"
+        },
+        {
+            "name": "Discord Bot List",
+            "emoji": "EMOJI",
+            "link": "LINK"
+        },
+        {
+            "name": "Discord Bots List",
+            "emoji": "EMOJI",
+            "link": "LINK"
+        },
+        {
+            "name": "AroBotList",
+            "emoji": "EMOJI",
+            "link": "LINK"
+        },
+        {
+            "name": "Discord-Bots",
+            "emoji": "EMOJI",
+            "link": "LINK"
+        }
+    ]
+    }

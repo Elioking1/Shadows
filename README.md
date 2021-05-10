@@ -1,0 +1,1 @@
+Shadows est un ancien bot Discord que j'ai créé, actuellement il n'existe plus mais je voulais cependant aujourd'hui faire part de l'ensemble de mon travail à la communauté.

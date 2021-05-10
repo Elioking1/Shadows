@@ -1,0 +1,160 @@
+{
+    "radios": [
+        {
+            "name": "Aghani",
+            "language": "lb",
+            "logo": "https://static-media.streema.com/media/cache/41/6f/416febf1dd3e2d3343739066c1a06111.jpg",
+            "link": "http://185.52.127.173/lb/1/mp3_128.mp3"
+        },
+        {
+            "name": "BBC 1",
+            "language": "us",
+            "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p02lrp2x.jpg",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q"
+        },
+        {
+            "name": "BBC 2",
+            "language": "us",
+            "logo": "https://www.musicweek.com/cimages/480fc506b78a52e9bedfc8712a0bdd20.png",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q"
+        },
+        {
+            "name": "BBC 3",
+            "language": "us",
+            "logo": "https://seeklogo.com/images/B/bbc-radio-3-logo-5DB25F99CC-seeklogo.com.png",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q"
+        },
+        {
+            "name": "BBC 4",
+            "language": "us",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Radio_4.svg/1200px-BBC_Radio_4.svg.png",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
+        },
+        {
+            "name": "BBC 5",
+            "language": "us",
+            "logo": "https://i1.sndcdn.com/artworks-000575357603-7dlhjo-t500x500.jpg",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_q"
+        },
+        {
+            "name": "BBC 6",
+            "language": "us",
+            "logo": "https://www.globalsoundgroup.com/wp-content/uploads/2018/07/bbc-radio-6.png",
+            "link": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_q"
+        },
+        {
+            "name": "Chante France",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0d/Chante_France_Logo.png",
+            "link": "http://stream.chantefrance.com/Chante_France"
+        },
+        {
+            "name": "Chérie FM",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/3/32/Ch%C3%A9rie_FM_logo_2007.png",
+            "link": "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"
+        },
+        {
+            "name": "Europe 1",
+            "language": "fr",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHjfO0VbCuMxzz0_DHuAwAwUOJmhrAV2Pyyw&usqp=CAU",
+            "link": "http://ais-live.cloud-services.paris:8000/europe1.mp3"
+        },
+        {
+            "name": "FIP",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png",
+            "link": "http://direct.fipradio.fr/live/fip-midfi.mp3"
+        },
+        {
+            "name": "France Culture",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1200px-France_Culture_-_2008.svg.png",
+            "link": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+        },
+        {
+            "name": "France Info",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/120px-France_Info_-_2008.svg.png",
+            "link": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+        },
+        {
+            "name": "France Inter",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/France_inter_2005_logo.svg/1200px-France_inter_2005_logo.svg.png",
+            "link": "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
+        },
+        {
+            "name": "Fun Radio",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Fun_Radio_2020.png/1200px-Fun_Radio_2020.png",
+            "link": "http://streaming.radio.funradio.fr/fun-1-48-192"
+        },
+        {
+            "name": "Gem",
+            "language": "us",
+            "logo": "https://media.info/i/lv/gem-106/1572723442/220.png",
+            "link": "http://live-bauer-al.sharp-stream.com/gem106.mp3"
+        },
+        {
+            "name": "Mouv",
+            "language": "fr",
+            "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/06/0d/34501/c300.png",
+            "link": "http://direct.mouv.fr/live/mouv-midfi.mp3"
+        },
+        {
+            "name": "Nostalgie",
+            "language": "fr",
+            "logo": "https://img.nrj.fr/gck3vsjX14RSJwTvbALG7nyGq0A=/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F173x173%2FNostalgie-Logo-Premium-Player.png",
+            "link": "http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=fluxradios"
+        },
+        {
+            "name": "NRJ",
+            "language": "fr",
+            "logo": "https://www.nrj.fr/uploads/assets/nrj/logo-nrj.png",
+            "link": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios"
+        },
+        {
+            "name": "RMC",
+            "language": "fr",
+            "logo": "https://rmc.bfmtv.com/static/nxt-rmc/info/img/logo-app-RMC.png",
+            "link": "http://chai5she.cdn.dvmr.fr/rmcinfo"
+        },
+        {
+            "name": "RTL",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png",
+            "link": "http://streaming.radio.rtl.fr/rtl-1-48-192"
+        },
+        {
+            "name": "RTL2",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/RTL2.png/480px-RTL2.png",
+            "link": "http://streaming.radio.rtl2.fr/rtl2-1-48-192"
+        },
+        {
+            "name": "Skyrock",
+            "language": "fr",
+            "logo": "https://cdn-radiotime-logos.tunein.com/s25232g.png",
+            "link": "http://icecast.skyrock.net/s/natio_mp3_128k"
+        },
+        {
+            "name": "Smooth",
+            "language": "us",
+            "logo": "https://support.musicgateway.com/wp-content/uploads/2020/07/Smooth-Radio-logo-Music-Gateway.jpg",
+            "link": "http://media-ice.musicradio.com/SmoothUK"
+        },
+        {
+            "name": "TSF Jazz",
+            "language": "fr",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d4/Logo-tsf-jazz.png",
+            "link": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3"
+        },
+        {
+            "name": "Virgin",
+            "language": "fr",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlzxtElOJtnelietjnIDOdCrasj0ak0K5deQ&usqp=CAU",     
+            "link": "http://ais-live.cloud-services.paris:8000/virgin.mp3"
+        }
+]
+}
